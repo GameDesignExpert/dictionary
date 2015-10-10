@@ -1,11 +1,16 @@
 {
-	"definition": "",
-	"references":{
-	},
-	"see-also":[
-		],
-	"tags": [
-		"balance",
-		"economics"
-		]
+    "definitions":[
+        {
+            "type":"noun",
+            "definition":""
+        }
+    ],
+    "references":{
+    },
+    "see-also":[
+    ],
+    "tags": [
+        "balance",
+        "economics"
+    ]
 }

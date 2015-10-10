@@ -1,14 +1,19 @@
 {
-	"definition": "",
-	"name": "Feedback Loop",
-	"references": {
-	},
-	"see-also": [
-		"Positive Feedback Loop"
-		],
-	"tags": [
-		"balance",
-		"economy",
-		"mechanics"
-		]
+    "definitions": [
+        {
+            "type": "noun",
+            "definition": ""
+        }
+    ],
+    "name": "Feedback Loop",
+    "references": {
+    },
+    "see-also": [
+        "Positive Feedback Loop"
+        ],
+    "tags": [
+        "balance",
+        "economy",
+        "mechanics"
+    ]
 }

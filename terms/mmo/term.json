@@ -1,0 +1,27 @@
+{
+    "definitions": [
+        {
+            "type": "noun",
+            "definition": ""
+        }
+    ],
+    "references": [
+        {
+            "source": "Extra Credits YouTube",
+            "style": "apa",
+            "Extra Credits YouTube": {
+                "title": "Extra Credits: The Future of MMOs."
+            },
+            "pubtype": {
+                "main": "pubonline"
+            },
+            "pubonline": {
+                "title": "Extra Credits: The Future of MMOs.",
+                "url": "https://youtu.be/VJ56Kia8dTU?list=PLB9B0CA00461BB187&t=247",
+                "dayaccessed": "10",
+                "monthaccessed": "10",
+                "yearaccessed": "2015"
+            }
+        }
+    ]
+}
